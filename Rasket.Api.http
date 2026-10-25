@@ -1,0 +1,6 @@
+@Rasket.Api_HostAddress = http://localhost:5039
+
+GET {{Rasket.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
